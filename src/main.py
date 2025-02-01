@@ -67,7 +67,7 @@ def start(m):
     markup.row(sendAnekgot, sendMemes).add(sendHelp)
 
     ##
-    ## после чего к 52 строчке допишите .add(button)
+    ## после чего к 67 строчке допишите .add(button)
     ##
 
     ## Здесь можно поменять текст сообщения
